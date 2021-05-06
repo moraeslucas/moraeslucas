@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
+
 <!-- GitHub Stats -->
+
 ![image](https://github-readme-stats.vercel.app/api?username=moraeslucas&theme=buefy)
 
 <br>
