@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm a Software Engineer and here are some of my career missions:
+•Solving client related problems and improving the user experience along the way;
+•Delivering results in a short-term period;
+•Continue to increase my skill set.
