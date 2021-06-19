@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 
 🔭 I'm a Software Engineer and here are some of my career missions:
--	Solving client related problems and improving the user experience along the way;
--	Delivering results in a short-term period;
--	Continue to increase my skill set.
+-	Achieve the company's goals and improve the user experience along the way;
+-	Build great relationships;
+-	Sharpening my skills while delivering results in a short-term period.
 
+📫 How to reach me: moraeslucasit@outlook.com 
+<br>
 
 ### 💻 Technologies
 
