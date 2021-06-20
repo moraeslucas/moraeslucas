@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -	Build great relationships;
 -	Sharpening my skills while delivering results in a short-term period.
 
-📫 How to reach me: moraeslucasit@outlook.com 
+📫 How to reach me: moraeslucas@gmail.com 
 <br>
 
 ### 💻 Technologies
