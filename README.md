@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm a Software Engineer and here are some of my career missions:
+🔭 I'm a Software Development Engineer and here are some of my career missions:
 -	Achieve the company's goals and improve the user experience along the way;
 -	Build great relationships;
 -	Sharpening my skills while delivering results in a short-term period.
