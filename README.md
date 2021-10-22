@@ -15,12 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I'm a Software Development Engineer and here are some of my career missions:
+⚡ One of the reasons I've created these repositories was to offer some support to my students* 
+<br>
+  *This came up when I worked as a Full Stack Development Instructor.
+<br>
+<br>
+
+🔭 I'm currently working as a Software Development Engineer, and here are some of my career missions:
 -	Achieve the company's goals and improve the user experience along the way;
 -	Build great relationships;
 -	Sharpening my skills while delivering results in a short-term period.
+<br>
 
-📫 How to reach me: moraeslucas@gmail.com 
+📫 How to reach me: moraesit@outlook.com 
+<br>
 <br>
 
 ### 💻 Technologies
