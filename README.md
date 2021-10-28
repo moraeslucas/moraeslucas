@@ -47,12 +47,5 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- GitHub Stats -->
-<div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&bg_color=F6F6F6&show_icons=true&include_all_commits=true&hide=issues,contribs"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslucas&bg_color=F6F6F6&layout=compact&langs_count=8&hide=COBOL"/>
-</div>
-
-<br>
-
-<!-- VIEWS -->
-![Profile views](https://gpvc.arturio.dev/moraeslucas)
+<img height="145em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&bg_color=F6F6F6&show_icons=true&include_all_commits=true&hide=issues,contribs"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslucas&bg_color=F6F6F6&layout=compact&langs_count=8&hide=COBOL"/>
