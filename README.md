@@ -1,5 +1,4 @@
-### Hi there 👋
----
+## Hi there 👋
 <!--
 **moraeslucas/moraeslucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +26,10 @@ Here are some ideas to get you started:
 -	Sharpening my skills while delivering results in a short-term period.
 <br>
 
-📫 How to reach me: moraesit@outlook.com 
+📫 How to reach me: moraesit@outlook.com
+<sub>
+  [![image](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moraeslucas)
+</sub>
 <br>
 <br>
 
@@ -47,5 +49,6 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <!-- GitHub Stats -->
-<img height="145em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&bg_color=F6F6F6&show_icons=true&include_all_commits=true&hide=issues,contribs"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslucas&bg_color=F6F6F6&layout=compact&langs_count=8&hide=COBOL"/>
+| <img height="145em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs"/> |
+| :---: |
+| <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslucas&layout=compact&langs_count=8&hide_border=true&hide=COBOL"/> |
