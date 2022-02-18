@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👨🏻‍💻 One of the reasons I've created these repositories was to offer some support to my previous students* 
+👨🏻‍💻 One of the reasons I've created these repositories was to offer some coding examples* 
 <br>
   *_I worked as a Full Stack Development Instructor_.
 <br>
