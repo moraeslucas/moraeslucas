@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 👨🏻‍💻 One of the reasons I've created these repositories was to offer some coding examples* 
 <br>
   *_I worked as a Full Stack Development Instructor_.
-<br>
 
 🛠 I'm currently working as a Software Development Engineer, and here are some of my career missions:
 <br>
@@ -33,10 +32,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/WhatsApp-6cb221?style=plastic-square&logo=whatsapp&logoColor=white"/>
   </a>
 </sub>
-<br>
 
 ### 💻📈 Technologies & Stats
-
 ![image](https://img.shields.io/badge/c%23-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -51,8 +48,9 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/-Hackerrank-29B35B?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 <!-- GitHub Stats -->
-| <img height="145em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide_border=true&hide=issues,contribs"/> |
-| :---: |
-| <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslucas&layout=compact&langs_count=8&hide_border=true&hide=COBOL"/> |
+<div align="left">
+   <a href="https://github.com/moraeslucas">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide=contribs"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslucas&layout=compact&langs_count=8&hide=COBOL"/>
+</div>
