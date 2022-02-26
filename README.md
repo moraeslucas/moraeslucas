@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 <br>
   *_I worked as a Full Stack Development Instructor_.
 
-🛠 I'm currently working as a Software Development Engineer, and here are some of my career missions:
-<br>
-  •Achieve the company's goals and improve the user experience along the way;
+🛠 I'm currently working as a Software Development Engineer, and here are a few of my career missions:
 <br>
   •Build great relationships;
 <br>
-  •Sharpening my skills while delivering results in a short-term period.
+  •Achieve the company's goals and improve the user experience along the way.
 
 📫 How to reach me: moraesit@outlook.com
 <sub>
@@ -46,11 +44,14 @@ Here are some ideas to get you started:
 ![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![image](https://img.shields.io/badge/azure-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/-Hackerrank-29B35B?style=for-the-badge&logo=HackerRank&logoColor=white)
+<a href="https://www.hackerrank.com/moraeslucas">
+   ![image](https://img.shields.io/badge/-Hackerrank-29B35B?style=for-the-badge&logo=HackerRank&logoColor=white)
+</a>
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <!-- GitHub Stats -->
 <div align="left">
    <a href="https://github.com/moraeslucas">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide=contribs"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslucas&layout=compact&langs_count=8&hide=COBOL"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide=contribs"/>
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslucas&layout=compact&langs_count=8&hide=COBOL"/>
+   </a>
 </div>
