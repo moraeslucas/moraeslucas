@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!--
-**moraeslucas/moraeslucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**moraeslucas/moraeslucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get started:
 
 - 👋 Hi there ...
 - 🛠 I’m currently working on ...
@@ -11,24 +11,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Include WhatsApp: <a href="https://wa.me/3519" target="_blank">
+                      <img src="https://img.shields.io/badge/WhatsApp-6cb221?style=plastic-square&logo=whatsapp&logoColor=white"/>
+                    </a>
+- GitHub Stats:
+  <br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide=contribs"/>
 -->
 
-👨🏻‍💻 One of the reasons I've created these repositories was to offer some coding examples* 
+👨🏻‍💻 One of the reasons I created these repositories was to offer some coding examples¹, including samples of what shouldn't be done.
 <br>
-  *_I worked as a Full Stack Development Instructor_.
+  <b>¹</b>_i worked as a Full Stack Development Instructor_.
 
-🛠 I'm currently working as a Software Development Engineer, and here are a few of my career missions:
+🛠 I'm a Software Engineer who strives to:
 <br>
   •Build great relationships;
 <br>
-  •Achieve the company's goals and improve the user experience along the way.
+  •Deliver the best possible software :)
 
-📫 How to reach me: moraesit@outlook.com
+📫 How to reach me: moraesit@outlook.com 
 <sub>
   [![image](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moraeslucas)
-  <a href="https://wa.me/5551984211688" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-6cb221?style=plastic-square&logo=whatsapp&logoColor=white"/>
-  </a>
 </sub>
 
 ### 💻📈 Technologies & Stats
@@ -51,7 +54,6 @@ Here are some ideas to get you started:
 <!-- GitHub Stats -->
 <div align="left">
    <a href="https://github.com/moraeslucas">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide=contribs"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraeslucas&layout=compact&langs_count=8&hide=COBOL"/>
    </a>
 </div>
