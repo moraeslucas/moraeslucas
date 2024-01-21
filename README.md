@@ -23,7 +23,7 @@ Here are some ideas to get started:
 <br>
   <b>¹</b>_i worked as a Full Stack Development Instructor_.
 
-🛠 I'm a Software Engineer who strives to:
+🛠 I'm a Full-Stack Engineer who strives to:
 <br>
   •Build great relationships;
 <br>
