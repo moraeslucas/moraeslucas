@@ -19,15 +19,15 @@ Here are some ideas to get started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide=contribs"/>
 -->
 
-👨🏻‍💻 One of the reasons I created these repositories was to offer some coding examples¹, including samples of what shouldn't be done.
+👨🏻‍💻 One of the reasons I created these repositories was to offer some coding examples¹, including samples of what shouldn't be done =)
 <br>
-  <b>¹</b>_i worked as a Full Stack Development Instructor_.
+  <b>¹</b>_I worked as a Full Stack Development Instructor_.
 
 🛠 I'm a Full-Stack Engineer who strives to:
 <br>
   •Build great relationships;
 <br>
-  •Deliver the best possible software :)
+  •Deliver the best possible software 👍
 
 📫 How to reach me: moraesit@outlook.com 
 <sub>
