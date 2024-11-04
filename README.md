@@ -9,7 +9,6 @@ Here are some ideas to get started:
 - 🛠 I’m currently working on ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Include WhatsApp: <a href="https://wa.me/3519" target="_blank">
                       <img src="https://img.shields.io/badge/WhatsApp-6cb221?style=plastic-square&logo=whatsapp&logoColor=white"/>
@@ -19,7 +18,7 @@ Here are some ideas to get started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide=contribs"/>
 -->
 
-👨🏻‍💻 One of the reasons I created these repositories was to offer some coding examples¹, including samples of what shouldn't be done =)
+👨🏻‍💻 One of the reasons I created these repositories was to share coding examples¹, my hackathons/projects, anti-patterns, etc.
 <br>
   <b>¹</b>_I worked as a Full Stack Development Instructor_.
 
@@ -27,7 +26,7 @@ Here are some ideas to get started:
 <br>
   •Build great relationships;
 <br>
-  •Deliver the best possible software 👍
+  •Deliver the best possible solution/software 👍
 
 📫 How to reach me: moraesit@outlook.com 
 <sub>
