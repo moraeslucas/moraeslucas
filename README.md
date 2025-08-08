@@ -27,11 +27,11 @@ Here are some ideas to get started:
 <br>
   <b>¹</b>_Since I worked as an IT Instructor_.
 
-🛠 I am a Senior Full-Stack Engineer with Data Engineering and AI 🤖 expertise who strives to:
+🛠 I am a Senior Software Engineer working with Data Engineering and AI 🤖 who strives to:
 <br>
   •Build great relationships;
 <br>
-  •Deliver the best possible Engineering solution.
+  •Deliver the best possible solution.
 
 📫 How to reach me: moraesit@outlook.com 
 <sub>
