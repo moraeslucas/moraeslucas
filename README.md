@@ -23,7 +23,7 @@ Here are some ideas to get started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide=contribs"/>
 -->
 
-👨🏻‍💻 I am a Senior Data Engineer working with AI 🤖 and Software Engineering who strives to:
+👨🏻‍💻 I am a Senior Data Engineer with experience in AI 🤖 and an extensive background in Software Engineering who strives to:
 <br>
   •Deliver the best possible solution.
 <br>
