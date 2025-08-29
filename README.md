@@ -23,15 +23,15 @@ Here are some ideas to get started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=moraeslucas&show_icons=true&include_all_commits=true&hide=contribs"/>
 -->
 
-👨🏻‍💻 One of the reasons I created these repositories was to share my samples¹, my hackathons/projects, anti-patterns, etc.
-<br>
-  <b>¹</b>_Since I worked as an IT Instructor_.
-
-🛠 I am a Senior Software Engineer working with Data Engineering and AI 🤖 who strives to:
-<br>
-  •Build great relationships;
+👨🏻‍💻 I am a Senior Data Engineer working with AI 🤖 and Software Engineering who strives to:
 <br>
   •Deliver the best possible solution.
+<br>
+  •Build great relationships :)
+
+One of the reasons I created these repositories was to share my projects, hackathons, class samples¹, anti-patterns, etc.
+<br>
+<b>¹</b>_Since I worked as an IT Instructor_.
 
 📫 How to reach me: moraesit@outlook.com 
 <sub>
