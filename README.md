@@ -25,7 +25,7 @@ Here are some ideas to get started:
 </a>
 -->
 
-👨🏻‍💻 I am a Senior Engineer with experience in AI 🤖 and an extensive background in Data/Software Engineering who strives to:
+👨🏻‍💻 I am a Senior Engineer with experience in AI 🤖 and an extensive background in Data/Software Engineering, always striving to:
 <br>
   •Deliver the best possible solution.
 <br>
@@ -34,11 +34,12 @@ Here are some ideas to get started:
 One of the reasons I created these repositories was to share my projects, hackathons, class samples¹, anti-patterns, etc.
 <br>
 <b>¹</b>_Since I worked as an IT Instructor_.
-
+<br>
+<br>
 ## 📫 How to reach me
-- moraesit@outlook.com 
-- [![image](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moraeslucas) 
-
+- moraesit@outlook.com
+- [![image](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moraeslucas)
+<br>
 <br>
 <table>
   <tr>
