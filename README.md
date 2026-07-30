@@ -34,17 +34,16 @@ Here are some ideas to get started:
 One of the reasons I created these repositories was to share my projects, hackathons, class samples¹, anti-patterns, etc.
 <br>
 <b>¹</b>_Since I worked as an IT Instructor_.
-<br>
-<br>
+
 ## 📫 How to reach me
 - moraesit@outlook.com
 - [![image](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moraeslucas)
-<br>
-<br>
+
+## 📚 Additional Information
 <table>
   <tr>
     <td align="center">
-      <h2>🛠️ Tools · Technologies · Data · AI</h2>
+      <sub><h2> Technologies · Data · AI · Tools</h2></sub>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
