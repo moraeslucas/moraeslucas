@@ -35,13 +35,18 @@ One of the reasons I created these repositories was to share my projects, hackat
 <br>
 <b>¹</b>_Since I worked as an IT Instructor_.
 
+## 📫 How to reach me
+- moraesit@outlook.com 
+- [![image](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moraeslucas) 
+
+<br>
 <table>
   <tr>
     <td align="center">
       <h2>🛠️ Tools · Technologies · Data · AI</h2>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-      <img src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1" />
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Foundry-2822AD?style=for-the-badge&logo=microsoft-foundry&logoColor=fff" />
       <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
       <br>
@@ -64,7 +69,3 @@ One of the reasons I created these repositories was to share my projects, hackat
     </td>
   </tr>
 </table>
-
-## 📫 How to reach me
-- moraesit@outlook.com 
-- [![image](https://img.shields.io/badge/-LinkedIn-blue?style=plastic-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moraeslucas) 
