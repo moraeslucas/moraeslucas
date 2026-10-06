@@ -25,7 +25,7 @@ Here are some ideas to get started:
 </a>
 -->
 
-👨🏻‍💻 I am a Senior Engineer with experience in AI 🤖 and an extensive background in Data/Software Engineering, always striving to:
+👨🏻‍💻 I am a Data Engineer with AI experience 🤖 and an extensive background in Software Engineering, always striving to:
 <br>
   •Deliver the best possible solution.
 <br>
